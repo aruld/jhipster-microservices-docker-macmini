@@ -20,11 +20,6 @@ Setting up your macmini running OS X El Capitan 10.11.5 to deploy your jhipster 
 
     ![Brew install output](screenshots/brew-install.png?raw=true)
 
-5. Install Node from Homebrew
-
-    ![Node version](screenshots/node-version.png?raw=true)
-
-
 ## Docker Setup
 
 1. Install Oracle VirtualBox 5.0.20 or later from https://www.virtualbox.org/wiki/Downloads
@@ -82,3 +77,24 @@ Setting up your macmini running OS X El Capitan 10.11.5 to deploy your jhipster 
     ```
 
 
+## JHipster Setup
+
+1. Install Node from Homebrew
+
+    ![Node](screenshots/node-version.png?raw=true)
+
+2. Install Yeoman
+
+    ![Yeoman](screenshots/yeoman-install.png?raw=true)
+
+3. Install Bower
+
+    ![Bower](screenshots/bower-install.png?raw=true)
+
+4. Install Gulp
+
+    ![Gulp](screenshots/gulp-install.png?raw=true)
+
+5. Install JHipster
+
+    ![JHipster](screenshots/jhipster-install.png?raw=true)
