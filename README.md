@@ -1,5 +1,5 @@
 # jhipster-microservices-docker-macmini
-Setting up your mac or macmini running OS X El Capitan 10.11.5 to deploy your jhipster microservices infrastructure on docker
+Setting up your mac or macmini running OS X El Capitan 10.11.5 to deploy your jhipster [microservices](https://jhipster.github.io/microservices-architecture) infrastructure on docker
 
 ## Prepping your Mac
 
