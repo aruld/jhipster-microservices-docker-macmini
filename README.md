@@ -5,9 +5,9 @@ Setting up your macmini running OS X El Capitan 10.11.5 to deploy your jhipster 
 2. Install Intellij IDEA from the [Jetbrains webiste](https://www.jetbrains.com/idea/download/)
    Create a command-line launcher from Tooks menu. It is very handy to launch idea from the project directory.
 
-   !(./screenshots/idea-tools-command-line-launcher.png?raw=true)
+   ![Idea Tools Menu](screenshots/idea-tools-command-line-launcher.png?raw=true)
 
 3. Install Command Line Tools (OS X 10.11) for Xcode (git & co)
 4. Install Homebrew from http://brew.sh
 
-   !(./screenshots/brew-install.png?raw=true)
+   ![Brew install output](screenshots/brew-install.png?raw=true)
