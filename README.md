@@ -24,8 +24,8 @@ Setting up your mac or macmini running OS X El Capitan 10.11.5 to deploy your jh
 
 1. Install Oracle VirtualBox 5.0.20 or later from https://www.virtualbox.org/wiki/Downloads
 
-2. Install Docker Toolbox from [Docker website](https://www.docker.com/products/docker-toolbox)
-   Follow these steps from https://docs.docker.com/engine/installation/mac/
+2. Install Docker Toolbox from [Docker website](https://www.docker.com/products/docker-toolbox).
+   Follow these steps from https://docs.docker.com/engine/installation/mac
 
 3. Run Docker Quickstart Terminal from Launchpad. This should run the default Docker machine and set its IP to 192.168.99.100.
 
@@ -50,7 +50,7 @@ Setting up your mac or macmini running OS X El Capitan 10.11.5 to deploy your jh
     NAME      ACTIVE   DRIVER       STATE     URL   SWARM   DOCKER    ERRORS
     default   -        virtualbox   Stopped                 Unknown
     ```
-5. Update default base memory (2 GB) for your default Docker VM in Virtual Box. I set it to 4GB and set Video Memory to 64 MB (was set to 8 MB).
+5. Update default base memory for your default Docker VM in Virtual Box to 4G (was set to 2G) and set Video Memory to 64M (was set to 8M).
 
 6. Start your Docker machine
 
