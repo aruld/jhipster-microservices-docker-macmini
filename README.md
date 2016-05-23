@@ -102,6 +102,6 @@ Setting up your mac or macmini running OS X El Capitan 10.11.5 to deploy your jh
 
 ##Welcome to the Hipster world!
 
-    ![JHipster](http://jhipster.github.io/img/logo-jhipster-drink-coffee.png)
+![JHipster](https://jhipster.github.io/img/logo-jhipster-drink-coffee.png)
 
 Watch this space for more hipversations :-)
