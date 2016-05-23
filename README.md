@@ -98,3 +98,10 @@ Setting up your mac or macmini running OS X El Capitan 10.11.5 to deploy your jh
 5. Install JHipster
 
     ![JHipster](screenshots/jhipster-install.png?raw=true)
+
+
+##Welcome to the Hipster world!
+
+    ![JHipster](http://jhipster.github.io/img/logo-jhipster-drink-coffee.png)
+
+Watch this space for more hipversations :-)
