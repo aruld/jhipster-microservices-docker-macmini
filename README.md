@@ -20,6 +20,26 @@ Setting up your mac or macmini running OS X El Capitan 10.11.5 to deploy your jh
 
     ![Brew install output](screenshots/brew-install.png?raw=true)
 
+5. Install iTerm2 + zsh (optional) from [iterm2.com website](https://www.iterm2.com).
+
+   Follow these steps to [upgrade](http://stackoverflow.com/a/17649823) your ZSH version from Homebrew. Skip step #5 which changes default shell.
+
+   Set the shell to zsh for iTerm2.
+
+   Set to zsh under iTerm -> Preferences -> Profiles -> General -> Command
+
+
+   ![iTerm ZSH configuration](screenshots/iterm-zsh-shell.png?raw=true)
+
+   Enhance your zsh experience by installing [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh).
+   This install script would automatically change default shell to zsh, you can undo this change by running this command
+
+   ```
+    sudo chsh -s /bin/bash
+   ```
+
+   I prefer not to change the default Terminal app which uses bash.
+
 ## Docker Setup
 
 1. Install Oracle VirtualBox 5.0.20 or later from https://www.virtualbox.org/wiki/Downloads
@@ -99,6 +119,15 @@ Setting up your mac or macmini running OS X El Capitan 10.11.5 to deploy your jh
 
     ![JHipster](screenshots/jhipster-install.png?raw=true)
 
+6. Install JHipster CLI oh-my-zsh Plugin (optional)
+
+    Follow [oh-my-zsh](https://github.com/jhipster/jhipster-oh-my-zsh-plugin) steps to install this plugin.
+
+    ![JHipster oh-my-zsh plugin](screenshots/jhipster-oh-my-zsh-install.png?raw=true)
+
+    Now, you can do tab-completions for jhipster commands
+
+    ![JHipster oh-my-zsh plugin tab completions](screenshots/jhipster-cli-completions.png?raw=true)
 
 ##Welcome to the Hipster world!
 
